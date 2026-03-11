@@ -1,0 +1,15 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "0.1",
+	"FriendlyName": "Safe C++ Rename",
+	"Description": "Blueprint-safe C++ class renaming tool (Editor only).",
+	"Category": "Editor",
+	"Modules": [
+		{
+			"Name": "SafeCppRename",
+			"Type": "Editor",
+			"LoadingPhase": "Default"
+		}
+	]
+}
